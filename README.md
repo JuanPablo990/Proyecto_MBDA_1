@@ -23,6 +23,11 @@ El proyecto MAA se centra en la creación de una base de datos eficiente para un
 
 El tema del proyecto es una base de datos de un hospital enfocada en las citas médicas de los pacientes y el costo de los procedimientos y la asignación de estas mismas. Mayoritariamente informes o consultas de cómo se manejan las citas médicas y todo el gestionamiento.
 
+## Logo
+
+![image](https://github.com/JuanPablo990/Proyecto_MBDA_1/assets/123655205/4fe10239-a970-4f4a-b967-db26afac62a6)
+
+
 ## Misión
 
 Lograr crear una base de datos mejor gestionada y eficiente en la cual se logre mayor remuneración. Las personas interesadas en el proyecto es un hospital que tiene un mal gestiona miento en el control de citas.
